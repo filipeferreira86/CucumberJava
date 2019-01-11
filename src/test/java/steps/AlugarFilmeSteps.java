@@ -15,6 +15,8 @@ import services.AluguelService;
 
 public class AlugarFilmeSteps {
 	
+	//teste
+	
 	private Filme filme;
 	private AluguelService aluguel = new AluguelService();
 	private NotaDeAluguel nota;
